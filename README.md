@@ -37,7 +37,7 @@ Cluster Profiling: Generate descriptive statistics for each segment.
 
 Excel Export: Profiling table and feature importance saved for reporting.
 
-Profiling ----- profiling_finished.xls
+Profiling ----- [profiling_finished.xls]
 
 Key Insights
 
