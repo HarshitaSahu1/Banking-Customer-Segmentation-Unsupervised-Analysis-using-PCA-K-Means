@@ -26,12 +26,18 @@ PCA: Reduce dimensionality and capture maximum variance.
 K-Means Clustering: Identify natural groupings in the data.
 
 Silhouette & Inertia Charts: Evaluate clustering performance.
+ Inertia Charts
 ![Inertia](Inertia.png)
+
+Silhouette 
 ![Silhouette](Silhouette.png)
 Cluster Profiling: Generate descriptive statistics for each segment.
 
+![Clusters](Clusters.png)
+
 Excel Export: Profiling table and feature importance saved for reporting.
 
+Profiling ----- profiling_finished.xls
 
 Key Insights
 
